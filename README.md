@@ -10,8 +10,8 @@
 
 ```javascript
 const habil = {
-  code: [Java, Javascript, Bash, Python],
-  tools: [Java, Openshift, K8s, K3s, Spring, React, React Native, Node, Docker],
+  code: [Java, Javascript, Bash, Python, Node, Kotlin, Go],
+  tools: [K8s, Openshift, K3s, Spring, React, React Native, Node, Docker],
   architecture: ["Microservices", "Event-driven", "Design system pattern"]
 }
 ```
