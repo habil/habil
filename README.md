@@ -1,6 +1,8 @@
 <h2> Hi there 👋, I'm Habil!</h2>
 <p><em>Senior Software Architect @ <a href="http://www.pia-team.com">PIA-TEAM</a></em></p>
 
+[My Blog](https://habil.dev)
+
 [![Twitter: HA61L](https://img.shields.io/twitter/follow/HA61L?style=social)](https://twitter.com/HA61L)
 [![Linkedin: habilbozali](https://img.shields.io/badge/-habilbozali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habilbozali/)](https://www.linkedin.com/in/habilbozali/)
 [![GitHub Habil](https://img.shields.io/github/followers/habil?label=follow&style=social)](https://github.com/habil)
@@ -10,9 +12,9 @@
 
 ```javascript
 const habil = {
-  code: [Java, Javascript, Bash, Python, Node, Kotlin, Go],
-  tools: [K8s, Openshift, K3s, Spring, React, React Native, Node, Docker],
-  architecture: [Microservice architecture, Event-driven architecture, High availability architecture]
+  code: ['Java', 'Javascript', 'Bash', 'Python', 'Node', 'Kotlin', 'Go'],
+  tools: ['K8s', 'Openshift', 'K3s', 'Spring', 'React', 'React Native', 'Node', 'Docker'],
+  architecture: ['Microservice architecture', 'Event-driven architecture', 'High availability architecture']
 }
 ```
 
