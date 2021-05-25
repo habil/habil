@@ -1,5 +1,5 @@
 <h2> Hi there 👋, I'm Habil!</h2>
-<p><em>Senior Software Architect @ <a href="http://www.pia-team.com">PIA-TEAM</a></em></p>
+<p><em>Senior Solution Architect</em></p>
 
 [My Blog](https://habil.dev)
 
