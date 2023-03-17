@@ -1,5 +1,5 @@
 <h2> Hi there 👋, I'm Habil!</h2>
-<p><em>Senior Solution Architect</em></p>
+<p><em>Software & Cloud Architect</em></p>
 
 [My Blog](https://habil.dev)
 
