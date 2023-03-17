@@ -13,7 +13,8 @@
 ```javascript
 const habil = {
   code: ['Java', 'Javascript', 'Bash', 'Python', 'Node', 'Kotlin', 'Go'],
-  tools: ['K8s', 'Openshift', 'K3s', 'Spring', 'React', 'React Native', 'Node', 'Docker'],
+  cloud: ['AWS', 'GCP'],
+  tools: ['K8s', 'Openshift', 'K3s', 'Spring', 'React', 'React Native', 'Docker'],
   architecture: ['Microservice architecture', 'Event-driven architecture', 'High availability architecture']
 }
 ```
