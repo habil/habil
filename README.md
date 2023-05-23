@@ -1,7 +1,7 @@
 <h2> Hi there 👋, I'm Habil!</h2>
 <p><em>Software & Cloud Architect</em></p>
 
-[My Blog](https://habil.dev)
+[Blog: Habil.dev](https://habil.dev)
 
 [![Twitter: HA61L](https://img.shields.io/twitter/follow/HA61L?style=social)](https://twitter.com/HA61L)
 [![Linkedin: habilbozali](https://img.shields.io/badge/-habilbozali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habilbozali/)](https://www.linkedin.com/in/habilbozali/)
@@ -13,7 +13,7 @@
 ```javascript
 const habil = {
   code: ['Java', 'Javascript', 'Bash', 'Python', 'Node', 'Kotlin', 'Go'],
-  cloud: ['AWS', 'GCP'],
+  cloud: ['AWS', 'GCP','Azure'],
   tools: ['K8s', 'Openshift', 'K3s', 'Spring', 'React', 'React Native', 'Docker'],
   architecture: ['Microservice architecture', 'Event-driven architecture', 'High availability architecture']
 }
